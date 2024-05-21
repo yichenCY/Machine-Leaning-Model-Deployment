@@ -1,10 +1,13 @@
 Dataset: 
 - Admission_Predict.csv From https://www.kaggle.com/code/pankajy/admission-prediction/input
 Model:
+
 - model.ipynb: Train the model 
 - Final_Model.py: Implement the final model
-Web page design(Front End): 
-- web_structure.html: 
+  
+Web page design(Front End):
+- web_structure.html:
+  
 Model Deployment(Back End):
 - app.py
 
